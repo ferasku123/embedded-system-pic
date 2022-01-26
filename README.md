@@ -5,3 +5,9 @@ hello world welcome
 
 
 this is first project
+
+
+this is a simple viedo of project
+
+<img width="960" alt="keypad" src="https://github.com/ferasku123/embedded-system-pic/blob/main/video1580461342.gif">
+
